@@ -6,7 +6,7 @@ class Planet {
 		this.moons = moons || 0;
 	}
 
-	reportMoons ( {
+	reportMoons () {
 		console.log('I have ${this.moons} moons.')
 	}
 }
