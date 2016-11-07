@@ -13,3 +13,5 @@ class Planet {
 
 const jupitor = new Planet('Pretty Big', 67);
 jupitor.reportMoons();
+
+class Schedule{}
